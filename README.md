@@ -7,7 +7,7 @@ Mailgun is a set of powerful APIs that allow you to send, receive, track and sto
 # Installation
 
 1. Clone this repository to get the Cloud Module.
-  `git clone https://github.com/ParsePlatform/MyMailCloudModule.git`
+  `git clone https://github.com/ParsePlatform/JavaScriptModulesTutorial.git`
 
 2. Copy `myMailModule-1.0.0.js` over to your Cloud Code Directory, placing it in the `cloud` directory.
 
@@ -267,7 +267,7 @@ And that's all there is to know about creating modules for Cloud Code! Make sure
 
 If you have any questions or comments, visit our [Help Center][parse-help].
 
-[tutorial]: #Tutorial
+[tutorial]: #tutorial
 [cloud-code-guide]: https://www.parse.com/docs/cloudcode/guide
 [javascript-modules-guide]: https://www.parse.com/docs/cloudcode/guide#cloud-code-advanced-modules
 [javascript-sdk-guide]: https://www.parse.com/docs/js/guide
